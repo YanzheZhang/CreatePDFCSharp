@@ -1,0 +1,15 @@
+F:\国遥\APP\垃圾填埋场\报文生成\iTextSharp\MyDemo\CreatePDF\CreatePDF\bin\Debug\itextsharp.dll
+F:\国遥\APP\垃圾填埋场\报文生成\iTextSharp\MyDemo\CreatePDF\CreatePDF\bin\Debug\itextsharp.pdb
+F:\国遥\APP\垃圾填埋场\报文生成\iTextSharp\MyDemo\CreatePDF\iText\obj\x86\Debug\itextsharp.csprojResolveAssemblyReference.cache
+F:\国遥\APP\垃圾填埋场\报文生成\iTextSharp\MyDemo\CreatePDF\iText\obj\x86\Debug\itextsharp.dll
+F:\国遥\APP\垃圾填埋场\报文生成\iTextSharp\MyDemo\CreatePDF\iText\obj\x86\Debug\itextsharp.pdb
+F:\GitHub\CreatePDF\CreatePDF\bin\Debug\itextsharp.dll
+F:\GitHub\CreatePDF\CreatePDF\bin\Debug\itextsharp.pdb
+F:\GitHub\CreatePDF\iText\obj\x86\Debug\itextsharp.csprojResolveAssemblyReference.cache
+F:\GitHub\CreatePDF\iText\obj\x86\Debug\itextsharp.dll
+F:\GitHub\CreatePDF\iText\obj\x86\Debug\itextsharp.pdb
+F:\GitHub\CreatePDF\CreatePDFCSharp\CreatePDF\bin\Debug\itextsharp.dll
+F:\GitHub\CreatePDF\CreatePDFCSharp\CreatePDF\bin\Debug\itextsharp.pdb
+F:\GitHub\CreatePDF\CreatePDFCSharp\iText\obj\x86\Debug\itextsharp.csprojResolveAssemblyReference.cache
+F:\GitHub\CreatePDF\CreatePDFCSharp\iText\obj\x86\Debug\itextsharp.dll
+F:\GitHub\CreatePDF\CreatePDFCSharp\iText\obj\x86\Debug\itextsharp.pdb
